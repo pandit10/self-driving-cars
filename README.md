@@ -20,7 +20,7 @@ The following techniques are used:
 [Medium Link](https://medium.com/@somesh.pandit/detecting-lane-lines-on-the-road-for-sdc-16fdfa83068d)
 
 
-My Pipeline consited of below steps
+My Pipeline consitsed of below steps
 Apply grayscale()
 Apply gaussian_blur()
 Apply canny()
@@ -28,3 +28,4 @@ Apply region_of_interest()
 Apply draw_lines()
 Apply hough_lines()
 Then you apply to every frame of the video
+
