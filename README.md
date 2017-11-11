@@ -29,3 +29,13 @@ Apply draw_lines()
 Apply hough_lines()
 Then you apply to every frame of the video
 
+
+
+
+One potential shortcoming would be what would happen when lanes are not properly marked  due to rain or with slopes
+
+
+A possible improvement would be to use some advance techniques to be learned further.
+
+
+
